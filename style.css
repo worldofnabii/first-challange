@@ -7,6 +7,10 @@ body
     background-size: cover;
     background-position: center;
 }
+img {
+  width: 100%;
+  height: auto;
+}
 .sign-up-form
 {
     width: 300px;
